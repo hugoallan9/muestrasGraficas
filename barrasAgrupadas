@@ -1,0 +1,219 @@
+% Created by tikzDevice version 0.7.0 on 2015-01-23 12:49:00
+% !TEX encoding = UTF-8 Unicode
+\documentclass[10pt,twoside]{book}\usepackage[T1]{fontenc}
+\usepackage{tikz}
+
+\usepackage[active,tightpage,xetex]{preview}
+
+\usepackage{fontspec,xunicode}
+
+\PreviewEnvironment{pgfpicture}
+
+\setlength\PreviewBorder{0pt}
+
+\usetikzlibrary{calc}
+
+\usetikzlibrary{positioning}
+
+\usepackage{fontspec,xunicode}
+
+\setmainfont{Open Sans Condensed Light}
+\begin{document}
+
+
+\end{document}
+}[x=1pt,y=1pt]
+\definecolor[named]{fillColor}{rgb}{1.00,1.00,1.00}
+\path[use as bounding box,fill=fillColor,fill opacity=0.00] (0,0) rectangle (230.54,138.04);
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (230.54,138.04);
+\definecolor[named]{drawColor}{rgb}{1.00,1.00,1.00}
+
+\path[draw=drawColor,line width= 0.6pt,line join=round,line cap=round] (  0.00,  0.00) rectangle (230.54,138.04);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (230.54,138.04);
+
+\path[] ( -2.49, 27.41) rectangle (173.64,138.04);
+
+\path[] (  0.00, 49.01) --
+	(173.64, 49.01);
+
+\path[] (  0.00, 80.33) --
+	(173.64, 80.33);
+
+\path[] (  0.00,111.65) --
+	(173.64,111.65);
+
+\path[] (  0.00, 33.35) --
+	(173.64, 33.35);
+
+\path[] (  0.00, 64.67) --
+	(173.64, 64.67);
+
+\path[] (  0.00, 95.99) --
+	(173.64, 95.99);
+
+\path[] (  0.00,127.30) --
+	(173.64,127.30);
+
+\path[] ( 14.56, 27.41) --
+	( 14.56,138.04);
+
+\path[] ( 42.96, 27.41) --
+	( 42.96,138.04);
+
+\path[] ( 71.37, 27.41) --
+	( 71.37,138.04);
+
+\path[] ( 99.78, 27.41) --
+	( 99.78,138.04);
+
+\path[] (128.18, 27.41) --
+	(128.18,138.04);
+
+\path[] (156.59, 27.41) --
+	(156.59,138.04);
+\definecolor[named]{fillColor}{rgb}{0.20,0.20,0.20}
+
+\path[fill=fillColor] (  1.77, 33.35) rectangle ( 10.30, 38.37);
+\definecolor[named]{fillColor}{rgb}{0.40,0.40,0.40}
+
+\path[fill=fillColor] ( 10.30, 33.35) rectangle ( 18.82, 33.59);
+\definecolor[named]{fillColor}{rgb}{0.78,0.78,0.78}
+
+\path[fill=fillColor] ( 18.82, 33.35) rectangle ( 27.34, 38.13);
+\definecolor[named]{fillColor}{rgb}{0.20,0.20,0.20}
+
+\path[fill=fillColor] ( 30.18, 33.35) rectangle ( 38.70, 65.95);
+\definecolor[named]{fillColor}{rgb}{0.40,0.40,0.40}
+
+\path[fill=fillColor] ( 38.70, 33.35) rectangle ( 47.22, 66.87);
+\definecolor[named]{fillColor}{rgb}{0.78,0.78,0.78}
+
+\path[fill=fillColor] ( 47.22, 32.44) rectangle ( 55.75, 33.35);
+\definecolor[named]{fillColor}{rgb}{0.20,0.20,0.20}
+
+\path[fill=fillColor] ( 58.59, 33.35) rectangle ( 67.11,133.01);
+\definecolor[named]{fillColor}{rgb}{0.40,0.40,0.40}
+
+\path[fill=fillColor] ( 67.11, 33.35) rectangle ( 75.63, 80.32);
+\definecolor[named]{fillColor}{rgb}{0.78,0.78,0.78}
+
+\path[fill=fillColor] ( 75.63, 33.35) rectangle ( 84.15, 86.04);
+\definecolor[named]{fillColor}{rgb}{0.20,0.20,0.20}
+
+\path[fill=fillColor] ( 86.99, 33.35) rectangle ( 95.52,100.24);
+\definecolor[named]{fillColor}{rgb}{0.40,0.40,0.40}
+
+\path[fill=fillColor] ( 95.52, 33.35) rectangle (104.04, 50.87);
+\definecolor[named]{fillColor}{rgb}{0.78,0.78,0.78}
+
+\path[fill=fillColor] (104.04, 33.35) rectangle (112.56, 82.72);
+\definecolor[named]{fillColor}{rgb}{0.20,0.20,0.20}
+
+\path[fill=fillColor] (115.40, 33.35) rectangle (123.92, 69.43);
+\definecolor[named]{fillColor}{rgb}{0.40,0.40,0.40}
+
+\path[fill=fillColor] (123.92, 33.35) rectangle (132.45, 41.06);
+\definecolor[named]{fillColor}{rgb}{0.78,0.78,0.78}
+
+\path[fill=fillColor] (132.45, 33.35) rectangle (140.97, 61.73);
+\definecolor[named]{fillColor}{rgb}{0.20,0.20,0.20}
+
+\path[fill=fillColor] (143.81, 33.35) rectangle (152.33, 53.83);
+\definecolor[named]{fillColor}{rgb}{0.40,0.40,0.40}
+
+\path[fill=fillColor] (152.33, 33.35) rectangle (160.85, 36.91);
+\definecolor[named]{fillColor}{rgb}{0.78,0.78,0.78}
+
+\path[fill=fillColor] (160.85, 33.35) rectangle (169.37, 50.27);
+\definecolor[named]{drawColor}{rgb}{0.00,0.00,0.00}
+
+\node[text=drawColor,rotate= 90.00,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  0.91] at (  9.27, 44.17) {16015564};
+
+\node[text=drawColor,rotate= 90.00,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  0.91] at ( 17.79, 37.94) {757268};
+
+\node[text=drawColor,rotate= 90.00,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  0.91] at ( 26.32, 43.94) {15258296};
+
+\node[text=drawColor,rotate= 90.00,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  0.91] at ( 37.68, 72.48) {104100900};
+
+\node[text=drawColor,rotate= 90.00,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  0.91] at ( 46.20, 73.40) {107014668};
+
+\node[text=drawColor,rotate= 90.00,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  0.91] at ( 54.72, 37.98) {-2913768};
+
+\node[text=drawColor,rotate= 90.00,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  0.91] at ( 74.61, 86.85) {149980408};
+
+\node[text=drawColor,rotate= 90.00,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  0.91] at ( 83.13, 92.57) {168233684};
+
+\node[text=drawColor,rotate= 90.00,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  0.91] at ( 94.49,106.77) {213579857};
+
+\node[text=drawColor,rotate= 90.00,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  0.91] at (103.02, 56.68) {55939908};
+
+\node[text=drawColor,rotate= 90.00,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  0.91] at (111.54, 89.25) {157639949};
+
+\node[text=drawColor,rotate= 90.00,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  0.91] at (122.90, 75.96) {115208493};
+
+\node[text=drawColor,rotate= 90.00,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  0.91] at (131.42, 46.86) {24592822};
+
+\node[text=drawColor,rotate= 90.00,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  0.91] at (139.94, 67.54) {90615671};
+
+\node[text=drawColor,rotate= 90.00,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  0.91] at (151.31, 59.63) {65379728};
+
+\node[text=drawColor,rotate= 90.00,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  0.91] at (159.83, 42.71) {11355065};
+
+\node[text=drawColor,rotate= 90.00,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  0.91] at (168.35, 56.08) {54024663};
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (230.54,138.04);
+\definecolor[named]{drawColor}{rgb}{0.00,0.00,0.00}
+
+\path[draw=drawColor,line width= 0.6pt,line join=round] (  0.00, 27.41) --
+	(173.64, 27.41);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (230.54,138.04);
+
+\path[] ( 14.56, 23.15) --
+	( 14.56, 27.41);
+
+\path[] ( 42.96, 23.15) --
+	( 42.96, 27.41);
+
+\path[] ( 71.37, 23.15) --
+	( 71.37, 27.41);
+
+\path[] ( 99.78, 23.15) --
+	( 99.78, 27.41);
+
+\path[] (128.18, 23.15) --
+	(128.18, 27.41);
+
+\path[] (156.59, 23.15) --
+	(156.59, 27.41);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (230.54,138.04);
+\definecolor[named]{drawColor}{rgb}{0.00,0.00,0.00}
+
+\node[text=drawColor,anchor=base,inner sep=0pt, outer sep=0pt, scale=  1.00] at ( 14.56, 13.16) {Belice};
+
+\node[text=drawColor,anchor=base,inner sep=0pt, outer sep=0pt, scale=  1.00] at ( 42.96, 13.16) {Costa Rica};
+
+\node[text=drawColor,anchor=base,inner sep=0pt, outer sep=0pt, scale=  1.00] at ( 71.37, 13.16) {El Salvador};
+
+\node[text=drawColor,anchor=base,inner sep=0pt, outer sep=0pt, scale=  1.00] at ( 99.78, 13.16) {Honduras};
+
+\node[text=drawColor,anchor=base,inner sep=0pt, outer sep=0pt, scale=  1.00] at (128.18, 13.16) {Nicaragua};
+
+\node[text=drawColor,anchor=base,inner sep=0pt, outer sep=0pt, scale=  1.00] at (156.59, 13.16) {Panamá};
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (230.54,138.04);
+\definecolor[named]{drawColor}{rgb}{0.00,0.00,0.00}
+
+\node[text=drawColor,anchor=base,inner sep=0pt, outer sep=0pt, scale=  1.00] at ( 85.57,  3.01) {x};
+\end{scope}
+\end{tikzpicture}
+
+\end{document}
