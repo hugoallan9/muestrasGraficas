@@ -25,7 +25,7 @@
 \begin{tikzpicture}
 \node[inner sep=0pt, outer sep=0pt, ,text width= 56.692913328pt ,scale=0.90] (TeX) {Indígena esto es una pruebita};
 \path let \p1 = ($(TeX.north) - (TeX.south)$), 
-		\n1 = {veclen(\x1,\y1)} in (TeX.east) -- (TeX.west)
+		\n1 = {veclen(\x1,\y1)} in (TeX.north) -- (TeX.south)
 		node{ \typeout{tikzTeXWidth=\n1} };
 \makeatletter
 %\@@end
