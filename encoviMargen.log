@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99991 (TeX Live 2014/W32TeX) (preloaded format=xelatex 2014.9.16)  29 JAN 2015 18:28
+This is XeTeX, Version 3.14159265-2.6-0.99991 (TeX Live 2014/W32TeX) (preloaded format=xelatex 2014.9.16)  29 JAN 2015 19:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -775,10 +775,10 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 Preview: Tightpage 0 0 0 0
 [1] (./encoviMargen.aux) ) 
 Here is how much of TeX's memory you used:
- 22832 strings out of 493734
- 481194 string characters out of 6149468
+ 22836 strings out of 493734
+ 481300 string characters out of 6149468
  489715 words of memory out of 5000000
- 25907 multiletter control sequences out of 15000+600000
+ 25911 multiletter control sequences out of 15000+600000
  4491 words of font info for 26 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
  55i,6n,54p,10363b,628s stack positions out of 5000i,500n,10000p,200000b,80000s

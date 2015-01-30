@@ -1,9 +1,9 @@
-This is XeTeX, Version 3.14159265-2.6-0.99991 (TeX Live 2014/W32TeX) (preloaded format=xelatex 2014.9.16)  29 JAN 2015 19:00
+This is XeTeX, Version 3.14159265-2.6-0.99991 (TeX Live 2014/W32TeX) (preloaded format=xelatex 2014.9.16)  29 JAN 2015 21:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**encoviMargen01.tex
-(./encoviMargen01.tex
+**encoviMargen04.tex
+(./encoviMargen04.tex
 LaTeX2e <2014/05/01>
 Babel <3.9k> and hyphenation patterns for 78 languages loaded.
 (c:/texlive/2014/texmf-dist/tex/latex/base/book.cls
@@ -673,8 +673,8 @@ File: tikzlibrarypositioning.code.tex 2008/10/06 v3.0.0 (rcs-revision 1.7)
 . * 'bold italic' with NFSS spec.:
 . <->"Open Sans Condensed Light/BI/ICU:script=latn;language=DFLT;"
 .................................................
- (./encoviMargen01.aux)
-\openout1 = `encoviMargen01.aux'.
+ (./encoviMargen04.aux)
+\openout1 = `encoviMargen04.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
 LaTeX Font Info:    ... okay on input line 21.
@@ -773,14 +773,14 @@ LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> EU1/lmtt/bx/n on input line 21.
 Preview: Tightpage 0 0 0 0
-[1] (./encoviMargen01.aux) ) 
+[1] (./encoviMargen04.aux) ) 
 Here is how much of TeX's memory you used:
- 22832 strings out of 493734
- 481206 string characters out of 6149468
+ 22840 strings out of 493734
+ 481404 string characters out of 6149468
  489717 words of memory out of 5000000
- 25907 multiletter control sequences out of 15000+600000
+ 25915 multiletter control sequences out of 15000+600000
  4491 words of font info for 26 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
  55i,6n,54p,10365b,628s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on encoviMargen01.pdf (1 page).
+Output written on encoviMargen04.pdf (1 page).

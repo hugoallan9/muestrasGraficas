@@ -130,16 +130,17 @@
 }
 \coordinate (t1) at ($(apoyo) + 1*(longitud)$);
 \coordinate (t2) at ($(apoyo)+ (desX) + 0.3*(longitud)$);
-\path [fill=ct1] (apoyo) rectangle ($(apoyo)+(longitud)$);
-\node [inner sep=0pt, outer sep=0pt,text width=
+\path [fill=ct1] (apoyo) rectangle ($(apoyo)+(longitud)$)node[xshift=0.1cm,midway, right,text width=
+56.692913328, scale = 0.9] { Hola mundo cruel };
+\node [anchor=south west,inner sep=0pt, outer sep=0pt,text width=
 56.692913328
-,right= 0.2cm of t1,scale = 0.9, draw]{
+,midway,right= 0.2cm of t1,scale = 0.9, draw]{
 Indígena
 };
 \path [fill=ct2] ($(apoyo)+(desX)$) rectangle ($(apoyo)+(desX)+(longitud)$);
 \node [inner sep=0pt, outer sep=0pt,text width=
-56.692913328
-,right= 0.2cm of t2,scale = 0.9,draw]{
+56.692913328,
+midway,right= 0.2cm of t2,scale = 0.9,draw]{
 No indígena
 };
 \end{tikzpicture}
