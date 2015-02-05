@@ -1,0 +1,30 @@
+\documentclass[10pt,twoside]{book}\usepackage[T1]{fontenc}
+\usepackage{tikz}
+
+\usepackage[active,tightpage,xetex]{preview}
+
+\usepackage{fontspec,xunicode}
+
+\PreviewEnvironment{pgfpicture}
+
+\setlength\PreviewBorder{0pt}
+
+\usetikzlibrary{calc}
+
+\usetikzlibrary{positioning}
+
+\usepackage{fontspec,xunicode}
+
+\setmainfont{Open Sans Condensed Light}
+\begin{document}
+
+\begin{tikzpicture}
+\node[anchor=south west,inner sep=0] (image) at (0,0) {\includegraphics[width=0.9\textwidth]{VitalesT1}};
+\begin{scope}[x={(image.south east)},y={(image.north west)}]
+
+\node[inner sep =0, draw] at (0.4,0.3){\Huge Hola};
+\end{scope}
+
+\end{tikzpicture}
+
+\end{document}
